@@ -8,9 +8,6 @@ MYSQL for analyzing data
 
 TABLEAU for visualization in this project.
 
-## TABLEAU LINk
-dhanashreedalvi85@gmail.com
-"C:\Users\Dhanashree Dalvi\OneDrive\Desktop\Employee Retention HR PROJECT.twbx"
 ## DASHBOARD CONTENT 
 1. Average Attrition rate for all Departments
 
