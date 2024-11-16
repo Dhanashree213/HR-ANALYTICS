@@ -8,9 +8,8 @@ MYSQL for analyzing data
 
 TABLEAU for visualization in this project.
 
-## TABLEAU LINK - 
-
-
+## TABLEAU LINk
+dhanashreedalvi85@gmail.com
 ## DASHBOARD CONTENT 
 1. Average Attrition rate for all Departments
 
