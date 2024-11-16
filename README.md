@@ -3,11 +3,13 @@ Here is my 1st project which shows the details about Employee Retention releted 
 
 ## Tools 
 EXCEL for data cleaning
+
 MYSQL for analyzing data
+
 TABLEAU for visualization in this project.
 
 ## TABLEAU LINK - 
-[Your Link is Here]("C:\Users\Dhanashree Dalvi\OneDrive\Desktop\Employee Retention HR PROJECT.twbx")
+
 
 ## DASHBOARD CONTENT 
 1. Average Attrition rate for all Departments
