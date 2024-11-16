@@ -8,6 +8,7 @@ MYSQL for analyzing data
 
 TABLEAU for visualization in this project.
 
+[view dashboard](https://public.tableau.com/app/profile/dhanashree.dalvi/viz/EmployeeRetentionHRPROJECT/FINALDASHBOARD?publish=yes)
 ## DASHBOARD CONTENT 
 1. Average Attrition rate for all Departments
 
