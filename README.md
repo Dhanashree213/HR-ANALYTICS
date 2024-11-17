@@ -1,4 +1,4 @@
-# HR_ANALYSIS
+# ( Employee Retention )HR_ANALYSIS
 Here is my 1st project which shows the details about Employee Retention releted to HR Domain. This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
 
 ## Tools 
@@ -9,7 +9,7 @@ MYSQL for analyzing data
 TABLEAU for visualization in this project.
 
 ## TABLEAU LINK
-[View Dashboard](https://public.tableau.com/app/profile/dhanashree.dalvi/viz/EmployeeRetentionHRPROJECT/FINALDASHBOARD?publish=yes)
+[View Dashboard](https://public.tableau.com/app/profile/dhanashree.dalvi/viz/EmployeeRetentionHRPROJECT/FINALDASHBOARD?publish=yes) (Please Keep dashboard in full screen for better view !!)
 ## DASHBOARD CONTENT 
 1. Average Attrition rate for all Departments
 
